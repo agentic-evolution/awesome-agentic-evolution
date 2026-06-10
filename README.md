@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/agentic-evolution/awesome-agentic-evolution/pulls)
 
 > A curated and continuously updated collection of research papers on **agentic evolution** — 
-> persistent, experience-driven, system-level change in agentic systems through autonomous or human-involved selective pressure.
+> persistent, system-level change in agentic systems through autonomous or human-involved selective pressure.
 >
 > Some papers appear under multiple substrates when they contribute to more than one.
 
@@ -16,12 +16,12 @@
 - **Memory & Sense (M)**: The epistemic substrate — episodic/semantic/procedural memory, retention and retrieval policies, perception encoders, and world models
 
 **Consolidation Pathway** — how experience becomes persistent change:
-- `Δ` Structural: discrete, symbolic edits to non-parametric artifacts (prompts, workflow graphs, memory indices, tool configurations, and code)
+- `Δ` Structural: discrete, symbolic edits to non-parametric artifacts (prompts, workflow graphs, memory indices, tool configurations, or code)
 - `∇` Parametric: continuous updates to model weight parameters
 - `Δ+∇` Hybrid: both structural and parametric consolidation within a single system
 
 **Selective Pressure** — what drives evolution:
-- `H=0` Autonomous: selective pressure from environmental experience (including formal verification) and self-generated signals (self-play, self-rewarding)
+- `H=0` Autonomous: selective pressure from environmental experience (including formal verification) and self-generated signals (self-play and self-rewarding)
 - `H≠0` Human-involved: human input shapes the evolutionary trajectory (prescriptions, demonstrations, evaluative feedback, interactive collaboration, or implicit signals)
 
 ## Table of Contents
