@@ -28,7 +28,7 @@
 
 - [Cortex (Π) Evolution](#cortex-π-evolution)
 - [Action (A) Evolution](#action-a-evolution)
-- [Memory & Sense (M) Evolution](#memory-sense-m-evolution)
+- [Memory & Sense (M) Evolution](#memory--sense-m-evolution)
 - [Contributing](#contributing)
 
 ## Cortex (Π) Evolution
